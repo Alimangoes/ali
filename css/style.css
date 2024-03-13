@@ -158,7 +158,7 @@ header.sticky .logo{
     justify-content: center;
     align-items: center;
     display: flex;
-    background: url(/ali_s\ website/images/cardbackground.png);
+    background: url(../images/cardbackground.png);
     background-size: 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -322,7 +322,7 @@ header.sticky .logo{
   }
   @media (max-width: 1000px) {
     body{
-      background: url(/images/mbackground.jpg);
+      background: url(../images/mbackground.jpg);
       background-size: cover;
     }
     #home {
